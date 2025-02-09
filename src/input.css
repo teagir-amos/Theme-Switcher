@@ -27,7 +27,7 @@
     --color-cardbg-50: hsl(228, 28%, 20%);
     --color-white-50: hsl(0, 0%, 100%);
 
-    --breakpoint-sm: 25rem;
+    --breakpoint-sm: 18rem;
     --dark : "class";
 
     --display-none: "hidden";
